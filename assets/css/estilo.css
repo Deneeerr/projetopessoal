@@ -38,7 +38,7 @@ nav ul li a{
 
 .banner::before{
     content: "";
-    background: url(/projetopessoal/assets/img/yugiohai.png);
+    background: url(/assets/img/yugiohai.png);
     background-size: cover;
     background-position: center;
     position: absolute;
